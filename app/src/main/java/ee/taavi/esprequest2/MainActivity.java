@@ -1,11 +1,3 @@
-/**
- * This app sends a request to ESP8266
- *
- * Followed a sample from https://developer.android.com/training/volley/simple#java
- *
- * @author Taavi Kase
- */
-
 package ee.taavi.esprequest2;
 
 import androidx.appcompat.app.AppCompatActivity;
